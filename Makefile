@@ -6,13 +6,11 @@
 #    By: yoseo <yoseo@student.42seoul.kr>           +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/02/06 04:09:25 by yoseo             #+#    #+#              #
-#    Updated: 2022/02/12 09:15:33 by yoseo            ###   ########.fr        #
+#    Updated: 2022/02/12 09:32:48 by yoseo            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = libftprintf.a
-
-HD = ft_printdf.h
 
 SRC =   ft_printf.c\
 		ft_num_utils.c\
